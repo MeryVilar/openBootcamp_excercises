@@ -1,9 +1,0 @@
-.btn-modern:hover {
-    transform: translateY(-5px);
-    background-color: blueviolet;
-    color: bisque;
-    transition: 0.4s;
-    -webkit-box-shadow: 15px 13px 59px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 15px 13px 59px 0px rgba(0,0,0,0.75);
-box-shadow: 15px 13px 59px 0px rgba(0,0,0,0.75);
-}
